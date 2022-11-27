@@ -1,16 +1,15 @@
-### Hi there 👋
+```js
+class Satan2008{
+  constructor(...options) {
+    this.type = "human"
+    this.job = "student"
+    this.gender = "male"
+  }
+}
+```
 
-<!--
-**Satan2008/Satan2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://github.com/satan2008"><img src="https://img.shields.io/badge/Satan2008%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Satan2008&label=Ziyaretçi%20Sayısı&color=552b75" alt="Satan2008" />
